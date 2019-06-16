@@ -12,4 +12,9 @@ public class HelloWorld {
 		String Msg = "Hey Now!";
 		System.out.println(Msg);
 
+	public static void heyNow() {
+		String Msg = "Hey Now!";
+		System.out.println(Msg);
+	}
+
 }
